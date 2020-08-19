@@ -1,0 +1,13 @@
+#goal definition
+float32[] bottom_left
+float32 width
+float32 height
+float32 foo
+float32 bar
+---
+#result definition
+float32 foo
+float32 bar
+---
+#feedback definition
+int32 status
